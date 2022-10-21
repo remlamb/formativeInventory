@@ -1,8 +1,12 @@
 # formative Inventory SAE
 
-The code simulates an Inventory that can contains 3types of items : Potion, Map, Weapon.
+The code simulates an Inventory that can contains 3 types of items : 
+- Potion, 
+- Map, 
+- Weapon.
 
 You can create item, equip them or use them.
+
 
 You start with 2 healthPotion, 1 ForcePotion, a Sword and a Map.
 
